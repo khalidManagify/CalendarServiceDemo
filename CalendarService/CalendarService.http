@@ -1,0 +1,6 @@
+@CalendarService_HostAddress = https://localhost:44365
+
+GET {{CalendarService_HostAddress}}/booking/GetBookingsByDate/2024-9-9Z10%3A10%3A10
+Accept: application/json
+
+###
